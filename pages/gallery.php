@@ -96,7 +96,7 @@ include '../includes/navbar.php';
                     >
 
                     <div class="card-body">
-                        <h5 class="card-title">D Night</h5>
+                        <h5 class="card-title">DJ Night</h5>
                         <p class="card-text">
                             A memorable evening filled with music,
                             entertainment, and celebration.
